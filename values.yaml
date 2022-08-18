@@ -1,0 +1,13 @@
+# Create any kubernetes object
+# Example
+# k8sObjects:
+# - apiVersion: networking.k8s.io/v1
+  # kind: Ingress
+  # metadata:
+  #   annotations:
+  #     kubernetes.io/ingress.class: alb
+  #   name: exmple-ingress
+  #   namespace: ingress
+  # spec:
+  #   rules: []
+k8sObjects: []

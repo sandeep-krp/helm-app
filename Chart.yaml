@@ -1,0 +1,13 @@
+apiVersion: v2
+name: helm-app
+description: Simple application to deploy any kubernetes object
+
+type: application
+
+appVersion: 1.0.0
+
+version: 1.0.0
+
+maintainers:
+- name: Sandeep Kumar
+  email: er.sandeep.krp@gmail.com
